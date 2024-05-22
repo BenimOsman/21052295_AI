@@ -1,4 +1,4 @@
-# 21052295_AI
+# Pixel Square AI (Genetic Algorithm)
 
 AI Assignment (Genetic Algorithm)
 
