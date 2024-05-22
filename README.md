@@ -1,4 +1,4 @@
-# Pixel Square AI (Genetic Algorithm)
+# PixelSquare AI (Genetic Algorithm)
 
 AI Assignment (Genetic Algorithm)
 
